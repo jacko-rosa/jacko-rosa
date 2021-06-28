@@ -2,7 +2,7 @@
 
 <section align="center">
     <h3 align="center">Connect with me:</h3>
-    <p>
+    <p align="center">
         <a align="center" href="https://www.linkedin.com/in/jackson-machado-rosa-7246a6131/">
             <img align="center" height="30" width="40"
                  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
