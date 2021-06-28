@@ -4,12 +4,12 @@
     <h3 align="center">Connect with me:</h3>
     <p>
         <a align="center" href="https://www.linkedin.com/in/jackson-machado-rosa-7246a6131/">
-            <img height="30" width="40"
+            <img align="center" height="30" width="40"
                  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
                  alt="icon linkedin profile of jacko-rosa" title="linkedin profile of jacko-rosa"/>
         </a>
         <a align="center" href="https://github.com/jacko-rosa">
-            <img  height="30" width="40"
+            <img align="center" height="30" width="40"
                  src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg"
                  alt="icon Github profile of jacko-rosa" title="Github profile of jacko-rosa"/>
         </a>
