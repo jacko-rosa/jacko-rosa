@@ -10,8 +10,7 @@
         </a>
         <a href="https://github.com/jacko-rosa">
             <img align="center" height="30" width="40"
-
-                 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
+                 src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg"
                  alt="icon Github profile of jacko-rosa" title="Github profile of jacko-rosa"/>
         </a>
     </p>
